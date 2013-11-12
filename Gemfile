@@ -5,6 +5,7 @@ ruby '2.0.0'
 gem 'rails', '4.0.1'
 
 group :development do
+  gem 'quiet_assets'
   gem 'sqlite3', '1.3.8'
 end
 
